@@ -1,5 +1,5 @@
 # Bootstrap-Template
-combination of HTML,CSS, and Bootstrap.
+combination of HTML,CSS, and javascript.
 ![ss1](https://user-images.githubusercontent.com/85819910/125397336-6ce8e280-e3cb-11eb-8db0-824c5a1a1f27.png)
 ![ss2](https://user-images.githubusercontent.com/85819910/125397352-73775a00-e3cb-11eb-8011-02859057cbce.png)
 ![ss3](https://user-images.githubusercontent.com/85819910/125397361-75d9b400-e3cb-11eb-8ece-8f70750ade33.png)
